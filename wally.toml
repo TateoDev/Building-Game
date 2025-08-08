@@ -1,0 +1,8 @@
+[package]
+name = "putna/build-my-avatar"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+typed-promise = "arxkdev/typed-promise@4.0.2"
